@@ -1,0 +1,23 @@
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 33%;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+button {
+    display: block;
+}
+
+.dairy {
+    width: 70%;
+    border: 2px dotted blue;
+    background-color: green;
+}
